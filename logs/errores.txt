@@ -1,0 +1,448 @@
+2015-10-30 09:28:38 (CST)      No existe el metodolistaren el controladorcontrollers\Inventario C:\Apache24\htdocs\MVC\index.php 54
+
+2015-10-30 09:28:40 (CST)      No existe el metodolistaren el controladorcontrollers\Inventario C:\Apache24\htdocs\MVC\index.php 54
+
+2015-10-30 09:28:40 (CST)      No existe el metodolistaren el controladorcontrollers\Inventario C:\Apache24\htdocs\MVC\index.php 54
+
+2015-10-30 09:28:40 (CST)      No existe el metodolistaren el controladorcontrollers\Inventario C:\Apache24\htdocs\MVC\index.php 54
+
+2015-10-30 09:28:40 (CST)      No existe el metodolistaren el controladorcontrollers\Inventario C:\Apache24\htdocs\MVC\index.php 54
+
+2015-10-30 09:28:41 (CST)      Undefined index: global C:\Apache24\htdocs\MVC\views\Inventario\crear.php 18
+
+2015-10-30 09:28:41 (CST)      Invalid argument supplied for foreach() C:\Apache24\htdocs\MVC\views\Inventario\crear.php 68
+
+2015-10-30 09:29:29 (CST)      Undefined index: global C:\Apache24\htdocs\MVC\views\Inventario\crear.php 18
+
+2015-10-30 09:29:29 (CST)      No existe el metodocssen el controladorcontrollers\Inventario C:\Apache24\htdocs\MVC\index.php 54
+
+2015-10-30 09:29:30 (CST)      Undefined index: global C:\Apache24\htdocs\MVC\views\Inventario\crear.php 18
+
+2015-10-30 09:29:30 (CST)      No existe el metodocssen el controladorcontrollers\Inventario C:\Apache24\htdocs\MVC\index.php 54
+
+2015-10-30 09:29:30 (CST)      Undefined index: global C:\Apache24\htdocs\MVC\views\Inventario\crear.php 18
+
+2015-10-30 09:29:31 (CST)      Undefined index: global C:\Apache24\htdocs\MVC\views\Inventario\crear.php 18
+
+2015-10-30 09:29:38 (CST)      Undefined index: global C:\Apache24\htdocs\MVC\views\Inventario\crear.php 18
+
+2015-10-30 09:29:39 (CST)      Undefined index: global C:\Apache24\htdocs\MVC\views\Inventario\crear.php 18
+
+2015-10-30 09:29:39 (CST)      No existe el metodocssen el controladorcontrollers\Inventario C:\Apache24\htdocs\MVC\index.php 54
+
+2015-10-30 09:29:39 (CST)      Undefined index: global C:\Apache24\htdocs\MVC\views\Inventario\crear.php 18
+
+2015-10-30 09:29:51 (CST)      Undefined index: global C:\Apache24\htdocs\MVC\views\Inventario\crear.php 18
+
+2015-10-30 09:29:59 (CST)      No existe el metodolistaren el controladorcontrollers\Inventario C:\Apache24\htdocs\MVC\index.php 54
+
+2015-10-30 09:30:17 (CST)      No existe el metodolistasen el controladorcontrollers\Inventario C:\Apache24\htdocs\MVC\index.php 54
+
+2015-10-30 09:30:30 (CST)      Undefined index: global C:\Apache24\htdocs\MVC\views\Inventario\crear.php 18
+
+2015-10-30 09:31:42 (CST)      No existe el metodolistasen el controladorcontrollers\Inventario C:\Apache24\htdocs\MVC\index.php 54
+
+2015-10-30 09:31:48 (CST)      No existe el metodolistasen el controladorcontrollers\Inventario C:\Apache24\htdocs\MVC\index.php 54
+
+2015-10-30 09:31:48 (CST)      No existe el metodolistasen el controladorcontrollers\Inventario C:\Apache24\htdocs\MVC\index.php 54
+
+2015-10-30 09:31:49 (CST)      No existe el metodolistasen el controladorcontrollers\Inventario C:\Apache24\htdocs\MVC\index.php 54
+
+2015-10-30 09:32:31 (CST)      No existe el metodolistasen el controladorcontrollers\Inventario C:\Apache24\htdocs\MVC\index.php 54
+
+2015-10-30 09:32:31 (CST)      No existe el metodolistasen el controladorcontrollers\Inventario C:\Apache24\htdocs\MVC\index.php 54
+
+2015-10-30 09:32:32 (CST)      No existe el metodolistasen el controladorcontrollers\Inventario C:\Apache24\htdocs\MVC\index.php 54
+
+2015-10-30 09:32:32 (CST)      No existe el metodolistasen el controladorcontrollers\Inventario C:\Apache24\htdocs\MVC\index.php 54
+
+2015-10-30 09:32:34 (CST)      Undefined index: global C:\Apache24\htdocs\MVC\views\Inventario\crear.php 18
+
+2015-10-30 09:32:39 (CST)      No existe el metodolistasen el controladorcontrollers\Inventario C:\Apache24\htdocs\MVC\index.php 54
+
+2015-10-30 09:32:59 (CST)      No existe el metodolistasen el controladorcontrollers\Inventario C:\Apache24\htdocs\MVC\index.php 54
+
+2015-10-30 09:32:59 (CST)      No existe el metodolistasen el controladorcontrollers\Inventario C:\Apache24\htdocs\MVC\index.php 54
+
+2015-10-30 09:32:59 (CST)      No existe el metodolistasen el controladorcontrollers\Inventario C:\Apache24\htdocs\MVC\index.php 54
+
+2015-10-30 09:33:00 (CST)      No existe el metodolistasen el controladorcontrollers\Inventario C:\Apache24\htdocs\MVC\index.php 54
+
+2015-10-30 09:33:00 (CST)      No existe el metodolistasen el controladorcontrollers\Inventario C:\Apache24\htdocs\MVC\index.php 54
+
+2015-10-30 09:33:00 (CST)      No existe el metodolistasen el controladorcontrollers\Inventario C:\Apache24\htdocs\MVC\index.php 54
+
+2015-10-30 09:33:00 (CST)      No existe el metodolistasen el controladorcontrollers\Inventario C:\Apache24\htdocs\MVC\index.php 54
+
+2015-10-30 09:33:00 (CST)      No existe el metodolistasen el controladorcontrollers\Inventario C:\Apache24\htdocs\MVC\index.php 54
+
+2015-10-30 09:33:00 (CST)      No existe el metodolistasen el controladorcontrollers\Inventario C:\Apache24\htdocs\MVC\index.php 54
+
+2015-10-30 09:33:00 (CST)      No existe el metodolistasen el controladorcontrollers\Inventario C:\Apache24\htdocs\MVC\index.php 54
+
+2015-10-30 09:33:00 (CST)      No existe el metodolistasen el controladorcontrollers\Inventario C:\Apache24\htdocs\MVC\index.php 54
+
+2015-10-30 09:33:00 (CST)      No existe el metodolistasen el controladorcontrollers\Inventario C:\Apache24\htdocs\MVC\index.php 54
+
+2015-10-30 09:33:00 (CST)      No existe el metodolistasen el controladorcontrollers\Inventario C:\Apache24\htdocs\MVC\index.php 54
+
+2015-10-30 09:33:00 (CST)      No existe el metodolistasen el controladorcontrollers\Inventario C:\Apache24\htdocs\MVC\index.php 54
+
+2015-10-30 09:33:00 (CST)      No existe el metodolistasen el controladorcontrollers\Inventario C:\Apache24\htdocs\MVC\index.php 54
+
+2015-10-30 09:33:01 (CST)      Undefined index: global C:\Apache24\htdocs\MVC\views\Inventario\crear.php 18
+
+2015-10-30 09:33:02 (CST)      No existe el metodolistasen el controladorcontrollers\Inventario C:\Apache24\htdocs\MVC\index.php 54
+
+2015-10-30 09:33:03 (CST)      No existe el metodolistaren el controladorcontrollers\Inventario C:\Apache24\htdocs\MVC\index.php 54
+
+2015-10-30 09:33:06 (CST)      No existe el metodolistasen el controladorcontrollers\Inventario C:\Apache24\htdocs\MVC\index.php 54
+
+2015-10-30 09:33:19 (CST)      No existe el metodolistasen el controladorcontrollers\Inventario C:\Apache24\htdocs\MVC\index.php 54
+
+2015-10-30 09:33:20 (CST)      No existe el metodolistasen el controladorcontrollers\Inventario C:\Apache24\htdocs\MVC\index.php 54
+
+2015-10-30 09:33:20 (CST)      No existe el metodolistasen el controladorcontrollers\Inventario C:\Apache24\htdocs\MVC\index.php 54
+
+2015-10-30 09:33:20 (CST)      No existe el metodolistasen el controladorcontrollers\Inventario C:\Apache24\htdocs\MVC\index.php 54
+
+2015-10-30 09:34:27 (CST)      No existe el metodolistasen el controladorcontrollers\Inventario C:\Apache24\htdocs\MVC\index.php 54
+
+2015-10-30 09:34:27 (CST)      No existe el metodolistasen el controladorcontrollers\Inventario C:\Apache24\htdocs\MVC\index.php 54
+
+2015-10-30 09:34:27 (CST)      No existe el metodolistasen el controladorcontrollers\Inventario C:\Apache24\htdocs\MVC\index.php 54
+
+2015-10-30 09:35:33 (CST)      No existe el metodolistasen el controladorcontrollers\Inventario C:\Apache24\htdocs\MVC\index.php 54
+
+2015-10-30 09:48:01 (CST)      Error procesando la peticiÃ³n: No existe el controlador a ejecutar C:\Apache24\htdocs\MVC\index.php 59
+
+2015-10-30 09:50:43 (CST)      No existe el metodolistasen el controladorcontrollers\Inventario C:\Apache24\htdocs\MVC\index.php 54
+
+2015-10-30 09:50:52 (CST)      No existe el metodolistasen el controladorcontrollers\Inventario C:\Apache24\htdocs\MVC\index.php 54
+
+2015-10-30 09:50:53 (CST)      No existe el metodolistasen el controladorcontrollers\Inventario C:\Apache24\htdocs\MVC\index.php 54
+
+2015-10-30 09:50:53 (CST)      No existe el metodolistasen el controladorcontrollers\Inventario C:\Apache24\htdocs\MVC\index.php 54
+
+2015-10-30 09:50:53 (CST)      No existe el metodolistasen el controladorcontrollers\Inventario C:\Apache24\htdocs\MVC\index.php 54
+
+2015-10-30 09:52:46 (CST)      No existe el metodolistasen el controladorcontrollers\Inventario C:\Apache24\htdocs\MVC\index.php 54
+
+2015-10-30 09:53:36 (CST)      No existe el metodolistasen el controladorcontrollers\Inventario C:\Apache24\htdocs\MVC\index.php 54
+
+2015-10-30 09:53:37 (CST)      No existe el metodolistasen el controladorcontrollers\Inventario C:\Apache24\htdocs\MVC\index.php 54
+
+2015-10-30 09:53:37 (CST)      No existe el metodolistasen el controladorcontrollers\Inventario C:\Apache24\htdocs\MVC\index.php 54
+
+2015-10-30 09:54:26 (CST)      could not find driver C:\Apache24\htdocs\MVC\libs\DBConexion.php 23
+
+2015-10-30 09:54:28 (CST)      could not find driver C:\Apache24\htdocs\MVC\libs\DBConexion.php 23
+
+2015-10-30 09:54:28 (CST)      could not find driver C:\Apache24\htdocs\MVC\libs\DBConexion.php 23
+
+2015-10-30 10:01:23 (CST)      could not find driver C:\Apache24\htdocs\MVC\libs\DBConexion.php 23
+
+2015-10-30 10:01:23 (CST)      could not find driver C:\Apache24\htdocs\MVC\libs\DBConexion.php 23
+
+2015-10-30 10:02:19 (CST)      could not find driver C:\Apache24\htdocs\MVC\libs\DBConexion.php 23
+
+2015-10-30 10:02:19 (CST)      could not find driver C:\Apache24\htdocs\MVC\libs\DBConexion.php 23
+
+2015-10-30 10:02:19 (CST)      could not find driver C:\Apache24\htdocs\MVC\libs\DBConexion.php 23
+
+2015-10-30 10:04:07 (CST)      could not find driver C:\Apache24\htdocs\MVC\libs\DBConexion.php 23
+
+2015-10-30 10:04:07 (CST)      could not find driver C:\Apache24\htdocs\MVC\libs\DBConexion.php 23
+
+2015-10-30 10:04:08 (CST)      could not find driver C:\Apache24\htdocs\MVC\libs\DBConexion.php 23
+
+2015-10-30 10:04:10 (CST)      could not find driver C:\Apache24\htdocs\MVC\libs\DBConexion.php 23
+
+2015-10-30 10:04:10 (CST)      could not find driver C:\Apache24\htdocs\MVC\libs\DBConexion.php 23
+
+2015-10-30 10:04:11 (CST)      could not find driver C:\Apache24\htdocs\MVC\libs\DBConexion.php 23
+
+2015-10-30 10:04:11 (CST)      could not find driver C:\Apache24\htdocs\MVC\libs\DBConexion.php 23
+
+2015-10-30 10:04:11 (CST)      could not find driver C:\Apache24\htdocs\MVC\libs\DBConexion.php 23
+
+2015-10-30 10:04:19 (CST)      could not find driver C:\Apache24\htdocs\MVC\libs\DBConexion.php 23
+
+2015-10-30 10:04:21 (CST)      could not find driver C:\Apache24\htdocs\MVC\libs\DBConexion.php 23
+
+2015-10-30 10:04:21 (CST)      could not find driver C:\Apache24\htdocs\MVC\libs\DBConexion.php 23
+
+2015-10-30 10:06:02 (CST)      could not find driver C:\Apache24\htdocs\MVC\libs\DBConexion.php 22
+
+2015-10-30 10:06:03 (CST)      could not find driver C:\Apache24\htdocs\MVC\libs\DBConexion.php 22
+
+2015-10-30 10:06:03 (CST)      could not find driver C:\Apache24\htdocs\MVC\libs\DBConexion.php 22
+
+2015-10-30 10:06:03 (CST)      could not find driver C:\Apache24\htdocs\MVC\libs\DBConexion.php 22
+
+2015-11-03 09:12:35 (CST)      could not find driver C:\Apache24\htdocs\MVC\libs\DBConexion.php 22
+
+2015-11-03 09:12:42 (CST)      Undefined index: global C:\Apache24\htdocs\MVC\views\Inventario\crear.php 18
+
+2015-11-03 09:12:42 (CST)      No existe el metodocssen el controladorcontrollers\Inventario C:\Apache24\htdocs\MVC\index.php 54
+
+2015-11-03 09:13:24 (CST)      could not find driver C:\Apache24\htdocs\MVC\libs\DBConexion.php 22
+
+2015-11-03 09:13:26 (CST)      could not find driver C:\Apache24\htdocs\MVC\libs\DBConexion.php 22
+
+2015-11-03 09:13:26 (CST)      could not find driver C:\Apache24\htdocs\MVC\libs\DBConexion.php 22
+
+2015-11-03 09:13:26 (CST)      could not find driver C:\Apache24\htdocs\MVC\libs\DBConexion.php 22
+
+2015-11-03 09:14:26 (CST)      could not find driver C:\Apache24\htdocs\MVC\libs\DBConexion.php 22
+
+2015-11-03 09:14:26 (CST)      could not find driver C:\Apache24\htdocs\MVC\libs\DBConexion.php 22
+
+2015-11-03 09:14:26 (CST)      could not find driver C:\Apache24\htdocs\MVC\libs\DBConexion.php 22
+
+2015-11-03 09:14:33 (CST)      could not find driver C:\Apache24\htdocs\MVC\libs\DBConexion.php 22
+
+2015-11-03 09:14:33 (CST)      could not find driver C:\Apache24\htdocs\MVC\libs\DBConexion.php 22
+
+2015-11-03 09:14:33 (CST)      could not find driver C:\Apache24\htdocs\MVC\libs\DBConexion.php 22
+
+2015-11-03 09:14:33 (CST)      could not find driver C:\Apache24\htdocs\MVC\libs\DBConexion.php 22
+
+2015-11-03 09:14:34 (CST)      could not find driver C:\Apache24\htdocs\MVC\libs\DBConexion.php 22
+
+2015-11-03 09:14:34 (CST)      could not find driver C:\Apache24\htdocs\MVC\libs\DBConexion.php 22
+
+2015-11-03 09:14:34 (CST)      could not find driver C:\Apache24\htdocs\MVC\libs\DBConexion.php 22
+
+2015-11-03 09:14:34 (CST)      could not find driver C:\Apache24\htdocs\MVC\libs\DBConexion.php 22
+
+2015-11-03 09:14:35 (CST)      could not find driver C:\Apache24\htdocs\MVC\libs\DBConexion.php 22
+
+2015-11-03 09:14:35 (CST)      could not find driver C:\Apache24\htdocs\MVC\libs\DBConexion.php 22
+
+2015-11-03 09:14:35 (CST)      could not find driver C:\Apache24\htdocs\MVC\libs\DBConexion.php 22
+
+2015-11-03 09:14:35 (CST)      could not find driver C:\Apache24\htdocs\MVC\libs\DBConexion.php 22
+
+2015-11-03 09:14:35 (CST)      could not find driver C:\Apache24\htdocs\MVC\libs\DBConexion.php 22
+
+2015-11-03 09:14:35 (CST)      could not find driver C:\Apache24\htdocs\MVC\libs\DBConexion.php 22
+
+2015-11-03 09:14:35 (CST)      could not find driver C:\Apache24\htdocs\MVC\libs\DBConexion.php 22
+
+2015-11-03 09:14:35 (CST)      could not find driver C:\Apache24\htdocs\MVC\libs\DBConexion.php 22
+
+2015-11-03 09:14:35 (CST)      could not find driver C:\Apache24\htdocs\MVC\libs\DBConexion.php 22
+
+2015-11-03 09:14:35 (CST)      could not find driver C:\Apache24\htdocs\MVC\libs\DBConexion.php 22
+
+2015-11-03 09:14:35 (CST)      could not find driver C:\Apache24\htdocs\MVC\libs\DBConexion.php 22
+
+2015-11-03 09:14:35 (CST)      could not find driver C:\Apache24\htdocs\MVC\libs\DBConexion.php 22
+
+2015-11-03 09:14:35 (CST)      could not find driver C:\Apache24\htdocs\MVC\libs\DBConexion.php 22
+
+2015-11-03 09:14:35 (CST)      could not find driver C:\Apache24\htdocs\MVC\libs\DBConexion.php 22
+
+2015-11-03 09:14:35 (CST)      could not find driver C:\Apache24\htdocs\MVC\libs\DBConexion.php 22
+
+2015-11-03 09:14:35 (CST)      could not find driver C:\Apache24\htdocs\MVC\libs\DBConexion.php 22
+
+2015-11-03 09:14:35 (CST)      could not find driver C:\Apache24\htdocs\MVC\libs\DBConexion.php 22
+
+2015-11-03 09:14:35 (CST)      could not find driver C:\Apache24\htdocs\MVC\libs\DBConexion.php 22
+
+2015-11-03 09:14:35 (CST)      could not find driver C:\Apache24\htdocs\MVC\libs\DBConexion.php 22
+
+2015-11-03 09:14:35 (CST)      could not find driver C:\Apache24\htdocs\MVC\libs\DBConexion.php 22
+
+2015-11-03 09:14:35 (CST)      could not find driver C:\Apache24\htdocs\MVC\libs\DBConexion.php 22
+
+2015-11-03 09:14:35 (CST)      could not find driver C:\Apache24\htdocs\MVC\libs\DBConexion.php 22
+
+2015-11-03 09:14:35 (CST)      could not find driver C:\Apache24\htdocs\MVC\libs\DBConexion.php 22
+
+2015-11-03 09:14:35 (CST)      could not find driver C:\Apache24\htdocs\MVC\libs\DBConexion.php 22
+
+2015-11-03 09:14:35 (CST)      could not find driver C:\Apache24\htdocs\MVC\libs\DBConexion.php 22
+
+2015-11-03 09:14:35 (CST)      could not find driver C:\Apache24\htdocs\MVC\libs\DBConexion.php 22
+
+2015-11-03 09:14:35 (CST)      could not find driver C:\Apache24\htdocs\MVC\libs\DBConexion.php 22
+
+2015-11-03 09:14:35 (CST)      could not find driver C:\Apache24\htdocs\MVC\libs\DBConexion.php 22
+
+2015-11-03 09:14:35 (CST)      could not find driver C:\Apache24\htdocs\MVC\libs\DBConexion.php 22
+
+2015-11-03 09:14:35 (CST)      could not find driver C:\Apache24\htdocs\MVC\libs\DBConexion.php 22
+
+2015-11-03 09:14:36 (CST)      could not find driver C:\Apache24\htdocs\MVC\libs\DBConexion.php 22
+
+2015-11-03 09:14:36 (CST)      could not find driver C:\Apache24\htdocs\MVC\libs\DBConexion.php 22
+
+2015-11-03 09:14:36 (CST)      could not find driver C:\Apache24\htdocs\MVC\libs\DBConexion.php 22
+
+2015-11-03 09:14:36 (CST)      could not find driver C:\Apache24\htdocs\MVC\libs\DBConexion.php 22
+
+2015-11-03 09:14:36 (CST)      could not find driver C:\Apache24\htdocs\MVC\libs\DBConexion.php 22
+
+2015-11-03 09:14:36 (CST)      could not find driver C:\Apache24\htdocs\MVC\libs\DBConexion.php 22
+
+2015-11-03 09:14:36 (CST)      could not find driver C:\Apache24\htdocs\MVC\libs\DBConexion.php 22
+
+2015-11-03 09:14:36 (CST)      could not find driver C:\Apache24\htdocs\MVC\libs\DBConexion.php 22
+
+2015-11-03 09:14:36 (CST)      could not find driver C:\Apache24\htdocs\MVC\libs\DBConexion.php 22
+
+2015-11-03 09:14:36 (CST)      could not find driver C:\Apache24\htdocs\MVC\libs\DBConexion.php 22
+
+2015-11-03 09:14:36 (CST)      could not find driver C:\Apache24\htdocs\MVC\libs\DBConexion.php 22
+
+2015-11-03 09:14:36 (CST)      could not find driver C:\Apache24\htdocs\MVC\libs\DBConexion.php 22
+
+2015-11-03 09:14:36 (CST)      could not find driver C:\Apache24\htdocs\MVC\libs\DBConexion.php 22
+
+2015-11-03 09:14:36 (CST)      could not find driver C:\Apache24\htdocs\MVC\libs\DBConexion.php 22
+
+2015-11-03 09:14:36 (CST)      could not find driver C:\Apache24\htdocs\MVC\libs\DBConexion.php 22
+
+2015-11-03 09:14:36 (CST)      could not find driver C:\Apache24\htdocs\MVC\libs\DBConexion.php 22
+
+2015-11-03 09:14:36 (CST)      could not find driver C:\Apache24\htdocs\MVC\libs\DBConexion.php 22
+
+2015-11-03 09:14:36 (CST)      could not find driver C:\Apache24\htdocs\MVC\libs\DBConexion.php 22
+
+2015-11-03 09:14:36 (CST)      could not find driver C:\Apache24\htdocs\MVC\libs\DBConexion.php 22
+
+2015-11-03 09:14:36 (CST)      could not find driver C:\Apache24\htdocs\MVC\libs\DBConexion.php 22
+
+2015-11-03 09:14:36 (CST)      could not find driver C:\Apache24\htdocs\MVC\libs\DBConexion.php 22
+
+2015-11-03 09:14:36 (CST)      could not find driver C:\Apache24\htdocs\MVC\libs\DBConexion.php 22
+
+2015-11-03 09:14:36 (CST)      could not find driver C:\Apache24\htdocs\MVC\libs\DBConexion.php 22
+
+2015-11-03 09:14:36 (CST)      could not find driver C:\Apache24\htdocs\MVC\libs\DBConexion.php 22
+
+2015-11-03 09:14:36 (CST)      could not find driver C:\Apache24\htdocs\MVC\libs\DBConexion.php 22
+
+2015-11-03 09:14:36 (CST)      could not find driver C:\Apache24\htdocs\MVC\libs\DBConexion.php 22
+
+2015-11-03 09:14:36 (CST)      could not find driver C:\Apache24\htdocs\MVC\libs\DBConexion.php 22
+
+2015-11-03 09:14:36 (CST)      could not find driver C:\Apache24\htdocs\MVC\libs\DBConexion.php 22
+
+2015-11-03 09:14:36 (CST)      could not find driver C:\Apache24\htdocs\MVC\libs\DBConexion.php 22
+
+2015-11-03 09:14:36 (CST)      could not find driver C:\Apache24\htdocs\MVC\libs\DBConexion.php 22
+
+2015-11-03 09:14:37 (CST)      could not find driver C:\Apache24\htdocs\MVC\libs\DBConexion.php 22
+
+2015-11-03 09:14:37 (CST)      could not find driver C:\Apache24\htdocs\MVC\libs\DBConexion.php 22
+
+2015-11-03 09:14:37 (CST)      could not find driver C:\Apache24\htdocs\MVC\libs\DBConexion.php 22
+
+2015-11-03 09:14:37 (CST)      could not find driver C:\Apache24\htdocs\MVC\libs\DBConexion.php 22
+
+2015-11-03 09:14:37 (CST)      could not find driver C:\Apache24\htdocs\MVC\libs\DBConexion.php 22
+
+2015-11-03 09:14:37 (CST)      could not find driver C:\Apache24\htdocs\MVC\libs\DBConexion.php 22
+
+2015-11-03 09:14:37 (CST)      could not find driver C:\Apache24\htdocs\MVC\libs\DBConexion.php 22
+
+2015-11-03 09:14:38 (CST)      could not find driver C:\Apache24\htdocs\MVC\libs\DBConexion.php 22
+
+2015-11-03 09:14:38 (CST)      could not find driver C:\Apache24\htdocs\MVC\libs\DBConexion.php 22
+
+2015-11-03 09:14:38 (CST)      could not find driver C:\Apache24\htdocs\MVC\libs\DBConexion.php 22
+
+2015-11-03 09:14:38 (CST)      could not find driver C:\Apache24\htdocs\MVC\libs\DBConexion.php 22
+
+2015-11-03 09:17:18 (CST)      could not find driver C:\Apache24\htdocs\MVC\libs\DBConexion.php 22
+
+2015-11-03 09:17:18 (CST)      could not find driver C:\Apache24\htdocs\MVC\libs\DBConexion.php 22
+
+2015-11-03 09:17:19 (CST)      could not find driver C:\Apache24\htdocs\MVC\libs\DBConexion.php 22
+
+2015-11-03 09:17:19 (CST)      could not find driver C:\Apache24\htdocs\MVC\libs\DBConexion.php 22
+
+2015-11-03 09:17:19 (CST)      could not find driver C:\Apache24\htdocs\MVC\libs\DBConexion.php 22
+
+2015-11-03 09:17:19 (CST)      could not find driver C:\Apache24\htdocs\MVC\libs\DBConexion.php 22
+
+2015-11-03 09:19:00 (CST)      Undefined index: global C:\Apache24\htdocs\MVC\views\Inventario\crear.php 18
+
+2015-11-03 09:19:06 (CST)      Undefined index: global C:\Apache24\htdocs\MVC\views\Inventario\crear.php 18
+
+2015-11-03 09:19:06 (CST)      No existe el metodocssen el controladorcontrollers\Inventario C:\Apache24\htdocs\MVC\index.php 54
+
+2015-11-03 09:19:09 (CST)      Undefined index: global C:\Apache24\htdocs\MVC\views\Inventario\crear.php 18
+
+2015-11-03 09:19:09 (CST)      No existe el metodocssen el controladorcontrollers\Inventario C:\Apache24\htdocs\MVC\index.php 54
+
+2015-11-03 09:19:10 (CST)      Undefined index: global C:\Apache24\htdocs\MVC\views\Inventario\crear.php 18
+
+2015-11-03 09:19:10 (CST)      No existe el metodocssen el controladorcontrollers\Inventario C:\Apache24\htdocs\MVC\index.php 54
+
+2015-11-03 09:19:10 (CST)      Undefined index: global C:\Apache24\htdocs\MVC\views\Inventario\crear.php 18
+
+2015-11-03 09:19:10 (CST)      No existe el metodocssen el controladorcontrollers\Inventario C:\Apache24\htdocs\MVC\index.php 54
+
+2015-11-03 09:19:10 (CST)      Undefined index: global C:\Apache24\htdocs\MVC\views\Inventario\crear.php 18
+
+2015-11-03 09:19:10 (CST)      No existe el metodocssen el controladorcontrollers\Inventario C:\Apache24\htdocs\MVC\index.php 54
+
+2015-11-03 09:19:11 (CST)      Undefined index: global C:\Apache24\htdocs\MVC\views\Inventario\crear.php 18
+
+2015-11-03 09:19:11 (CST)      No existe el metodocssen el controladorcontrollers\Inventario C:\Apache24\htdocs\MVC\index.php 54
+
+2015-11-03 09:19:11 (CST)      Undefined index: global C:\Apache24\htdocs\MVC\views\Inventario\crear.php 18
+
+2015-11-03 09:19:11 (CST)      No existe el metodocssen el controladorcontrollers\Inventario C:\Apache24\htdocs\MVC\index.php 54
+
+2015-11-03 09:19:11 (CST)      Undefined index: global C:\Apache24\htdocs\MVC\views\Inventario\crear.php 18
+
+2015-11-03 09:19:11 (CST)      No existe el metodocssen el controladorcontrollers\Inventario C:\Apache24\htdocs\MVC\index.php 54
+
+2015-11-03 09:19:11 (CST)      Undefined index: global C:\Apache24\htdocs\MVC\views\Inventario\crear.php 18
+
+2015-11-03 09:19:11 (CST)      No existe el metodocssen el controladorcontrollers\Inventario C:\Apache24\htdocs\MVC\index.php 54
+
+2015-11-03 09:19:11 (CST)      Undefined index: global C:\Apache24\htdocs\MVC\views\Inventario\crear.php 18
+
+2015-11-03 09:19:11 (CST)      No existe el metodocssen el controladorcontrollers\Inventario C:\Apache24\htdocs\MVC\index.php 54
+
+2015-11-03 09:19:11 (CST)      Undefined index: global C:\Apache24\htdocs\MVC\views\Inventario\crear.php 18
+
+2015-11-03 09:19:11 (CST)      No existe el metodocssen el controladorcontrollers\Inventario C:\Apache24\htdocs\MVC\index.php 54
+
+2015-11-03 09:19:11 (CST)      Undefined index: global C:\Apache24\htdocs\MVC\views\Inventario\crear.php 18
+
+2015-11-03 09:19:11 (CST)      No existe el metodocssen el controladorcontrollers\Inventario C:\Apache24\htdocs\MVC\index.php 54
+
+2015-11-03 09:20:06 (CST)      Undefined index: global C:\Apache24\htdocs\MVC\views\Inventario\crear.php 18
+
+2015-11-03 09:20:06 (CST)      No existe el metodocssen el controladorcontrollers\Inventario C:\Apache24\htdocs\MVC\index.php 54
+
+2015-11-03 09:20:12 (CST)      Undefined index: global C:\Apache24\htdocs\MVC\views\Inventario\crear.php 18
+
+2015-11-03 09:20:12 (CST)      No existe el metodocssen el controladorcontrollers\Inventario C:\Apache24\htdocs\MVC\index.php 54
+
+2015-11-03 09:21:26 (CST)      Undefined index: global C:\Apache24\htdocs\MVC\views\Inventario\crear.php 18
+
+2015-11-03 09:21:26 (CST)      No existe el metodocssen el controladorcontrollers\Inventario C:\Apache24\htdocs\MVC\index.php 54
+
+2015-11-03 09:21:30 (CST)      Undefined index: global C:\Apache24\htdocs\MVC\views\Inventario\crear.php 18
+
+2015-11-03 09:21:30 (CST)      No existe el metodocssen el controladorcontrollers\Inventario C:\Apache24\htdocs\MVC\index.php 54
+
+2015-11-03 09:21:37 (CST)      Undefined index: global C:\Apache24\htdocs\MVC\views\Inventario\crear.php 18
+
+2015-11-03 09:21:37 (CST)      No existe el metodocssen el controladorcontrollers\Inventario C:\Apache24\htdocs\MVC\index.php 54
+
+2015-11-06 14:29:16 (CST)      Error procesando la peticiÃ³n: No existe el controlador a ejecutar C:\Apache24\htdocs\MVC\index.php 59
+
+2015-11-06 14:34:05 (CST)      Error procesando la peticiÃ³n: No existe el controlador a ejecutar C:\Apache24\htdocs\MVC\index.php 59
+
+2015-11-06 14:34:08 (CST)      Error procesando la peticiÃ³n: No existe el controlador a ejecutar C:\Apache24\htdocs\MVC\index.php 59
+
